@@ -1,4 +1,5 @@
 #DATASET EN RED
+
 #1. Diccionario SEP: https://educacionespecial.sep.gob.mx/storage/recursos/2023/05/xzrfl019nV-4Diccionario_lengua_%20Senas.pdf
 
 #2.Zenodo: https://zenodo.org/records/6554337
