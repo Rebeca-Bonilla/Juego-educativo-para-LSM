@@ -7,3 +7,5 @@
 #3.Centro educativo para sordos: https://www.sciencedirect.com/science/article/pii/S235234092400533X
 
 #4. Roboflow: https://universe.roboflow.com/datasetbyte/lengua-de-senas-mexicana/browse?queryText=class%3Aa&pageSize=50&startingIndex=0&browseQuery=true
+
+#5 CICESE: https://cicese.repositorioinstitucional.mx/jspui/handle/1007/4321
