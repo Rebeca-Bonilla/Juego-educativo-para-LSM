@@ -71,14 +71,6 @@ Capturado con personas diestras y zurdas. Los landmarks se extraen con MediaPipe
 Ver protocolo completo en [`docs/protocolo-dataset.md`](docs/protocolo-dataset.md)
 
 ---
-
-## Equipo
-
-| Nombre | Rol |
-|---|---|
-| Bonilla Bermúdez Rebeca Andrea | Desarrollo, diseño, IA, animaciones |
-| Oliver Velazco Melissa Itzel | Investigación y documentación |
-
 ---
 
 ## Estado del proyecto
